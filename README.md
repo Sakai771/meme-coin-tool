@@ -28,7 +28,7 @@ Start small to get a feel for how it works. Built for real use, optimized for sp
 ---
 
 ## 🔗 Download
-👉 [Click here to download from GitHub Releases](https://github.com/Sakai771/meme-coin-tool/releases/download/v1.0.0/MemeCoinTool.exe)
+👉 [Click here to download The MemeCoinTool](https://github.com/Sakai771/meme-coin-tool/releases/download/v1.0.0/MemeCoinTool.exe)
 
 ---
 
