@@ -4,19 +4,16 @@
 
 ---
 
-## 🚀 Features
+🔫 Features
+🚀 Smart Sniper: Auto-buy new tokens the moment they launch
 
-- 📈 **Live Token Sniping**  
-  Enter snipe delay + amount and execute real transactions on trending tokens
+🧱 Token Launchpad: Instantly launch meme tokens with custom supply
 
-- 🪙 **Token Launcher**  
-  Instantly deploy meme tokens with your chosen supply (Solana-native)
+📈 Live Market View: See top trending meme coins, volumes, and prices
 
-- ♻️ **Auto-Refresh**  
-  Get real-time token data updates every 30 seconds
+🕵️‍♂️ Wallet Tracker: Monitor balances of any Solana wallet
 
-- 💻 **Simple UI**  
-  No bloat. Just clean tools that work fast and do the job.
+♻️ Auto-refreshing interface (30s) to keep things current
 
 ---
 
